@@ -4,6 +4,7 @@ if [[ $# -gt 0 ]]
 then
     echo "SYNOPSYS: install-labenvironment"
     echo "er zijn geen argumentenodig"
+    exit
 fi
 
 ###########################################################
